@@ -39,4 +39,22 @@
 
 ## 📱 Mobile Development
 
+<table>
+  <tr></tr>
+</table>
+
 ## 🎮 Game Development
+
+<table>
+  <tr>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opengl/opengl-original.svg" width="64" height="64" />
+    </td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="64" height="64" />
+    </td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" width="64" height="64" />
+    </td>
+  </tr>
+</table>
