@@ -1,6 +1,6 @@
 # Hi, zDany here 👋
 
-I'm a developer
+I'm a developer with experience in several fields, including web, mobile, and game development. Passionate about gaming, I started coding video games, and later expanded my skills to websites and apps.
 
 ## 🌐 Web Development
 
