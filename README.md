@@ -61,19 +61,3 @@ I'm a developer with experience in several fields, including web, mobile, and ga
     </td>
   </tr>
 </table>
-
-## Editors/IDEs
-
-<table>
-  <tr>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="64" height="64" />
-    </td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" width="64" height="64" />
-    </td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="64" height="64" />
-    </td>
-  </tr>
-</table>
