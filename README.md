@@ -1,2 +1,5 @@
 # Hi, zDany here 👋
-### 🌐 Web, 📱 Mobile & 🎮 Game Developer
+## 🌐 Web Development
+<i class="devicon-html5-plain-wordmark colored"></i>
+## 📱 Mobile Development
+## 🎮 Game Development
