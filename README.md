@@ -1,6 +1,5 @@
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 # Hi, zDany here 👋
 ## 🌐 Web Development
-<i class="devicon-html5-plain-wordmark colored"></i>
+![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg)
 ## 📱 Mobile Development
 ## 🎮 Game Development
