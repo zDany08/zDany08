@@ -2,7 +2,7 @@
 
 I'm a web developer who turns designs and ideas into functional websites and web apps. I work with modern technologies to build fast and reliable products.
 
-## 💻 My Web Stack
+## 💻 Technologies
 
 <table>
   <tr>
