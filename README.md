@@ -1,8 +1,8 @@
 # Hi, zDany here 👋
 
-I'm a developer with experience in several fields, including web, mobile, and game development. Passionate about gaming, I started coding video games, and later expanded my skills to websites and apps.
+I'm a web developer who turns designs and ideas into functional websites and web apps. I work with modern technologies to build fast and reliable products.
 
-## 🌐 Web Development
+## My Web Stack
 
 <table>
   <tr>
@@ -32,32 +32,6 @@ I'm a developer with experience in several fields, including web, mobile, and ga
     </td>
     <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/socketio/socketio-original.svg" width="64" height="64" />
-    </td>
-  </tr>
-</table>
-
-## 📱 Mobile Development
-
-<table>
-  <tr>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original-wordmark.svg" width="64" height="64" />
-    </td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnavigation/reactnavigation-original.svg" width="64" height="64" />
-    </td>
-  </tr>
-</table>
-
-## 🎮 Game Development
-
-<table>
-  <tr>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="64" height="64" />
-    </td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" width="64" height="64" />
     </td>
   </tr>
 </table>
