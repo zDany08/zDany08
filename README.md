@@ -8,49 +8,49 @@ I'm a web developer who turns designs and ideas into functional websites and web
   <tr>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="64" />
-      <p>HTML</p>
+      <p><b>HTML</b></p>
     </td>
-    <td>
+    <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="64" />
-      <p>CSS</p>
+      <p><b>CSS</b></p>
     </td>
-    <td>
+    <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="64" />
-      <p>TailwindCSS</p>
+      <p><b>TailwindCSS</b></p>
     </td>
-    <td>
+    <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="64" />
-      <p>JavaScript</p>
+      <p><b>JavaScript</b></p>
     </td>
-    <td>
+    <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="64" />
-      <p>TypeScript</p>
+      <p><b>TypeScript</b></p>
     </td>
-    <td>
+    <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="64" />
-      <p>Node.js</p>
+      <p><b>Node.js</b></p>
     </td>
-    <td>
+    <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="64" />
-      <p>Express.js</p>
+      <p><b>Express.js</b></p>
     </td>
-    <td>
+    <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="64" />
-      <p>React</p>
+      <p><b>React</b></p>
     </td>
-    <td>
+    <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/zustand/zustand-original.svg" width="64" />
-      <p>Zustand</p>
+      <p><b>Zustand</b></p>
     </td>
   </tr>
   <tr>
-    <td>
+    <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="64" />
-      <p>Next.js</p>
+      <p><b>Next.js</b></p>
     </td>
-    <td>
+    <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/socketio/socketio-original.svg" width="64" />
-      <p>Socket.IO</p>
+      <p><b>Socket.IO</b></p>
     </td>
   </tr>
 </table>
