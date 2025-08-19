@@ -7,7 +7,7 @@ I'm a web developer who turns designs and ideas into functional websites and web
 <table>
   <tr>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="64" height="64" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="64" />
       <h4>HTML</h3>
     </td>
     <td>
