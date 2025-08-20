@@ -1,6 +1,6 @@
 # Hi, zDany here 👋
 
-I'm a web developer who turns designs and ideas into functional websites and web apps. I work with modern technologies to ship fast and reliable web products.
+I'm a web developer working with modern technologies to ship fast & reliable web products.
 
 ## 💻 Technologies
 
