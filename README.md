@@ -35,15 +35,19 @@ I'm a web developer working with modern technologies to ship fast & reliable web
       <p><b>Express.js</b></p>
     </td>
     <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="64" />
+      <p><b>MongoDB</b></p>
+    </td>
+    <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="64" />
       <p><b>React</b></p>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/zustand/zustand-original.svg" width="64" />
       <p><b>Zustand</b></p>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="64" />
       <p><b>Next.js</b></p>
