@@ -1,3 +1,3 @@
-# Hi, zDany there 👋🏼
+# Hi, Daniel there 👋🏼
 
-I'm a web developer working with modern technologies to ship fast & reliable web apps.
+I craft stunning, performant web applications with contemporary technologies. Passionate about clean code, modern UI, and intuitive user experience.
